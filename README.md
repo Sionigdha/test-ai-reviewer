@@ -1,1 +1,2 @@
-# test-ai-reviewer
+This is a test repo for my AI code reviewer project.
+
